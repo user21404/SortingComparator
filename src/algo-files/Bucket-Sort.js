@@ -1,4 +1,4 @@
-let bubbleSort = (inputArr) => {
+let bucketSort = (inputArr) => {
     let len = inputArr.length;
     let checked;
     do {
